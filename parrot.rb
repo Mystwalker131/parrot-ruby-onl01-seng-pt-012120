@@ -9,7 +9,7 @@ end
   
   def parrot("Pretty bird")
     puts "Pretty bird!"
-    return "Squawk!"
+    return "Pretty bird!"
    end
    
    
