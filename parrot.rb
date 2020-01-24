@@ -7,7 +7,7 @@
 
 
   
-def phrase
+def parrot
   puts "Pretty bird!"
   return "Squawk!"
 end
