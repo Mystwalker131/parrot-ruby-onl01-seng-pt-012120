@@ -7,10 +7,10 @@ end
 
 
   
-  def parrot("Pretty bird")
-    puts "Pretty bird!"
-    return "Pretty bird!"
-   end
+def parrot(pretty bird)
+  puts "Pretty bird!"
+  return "Pretty bird!"
+end
    
    
    
