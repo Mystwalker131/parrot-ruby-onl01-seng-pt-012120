@@ -1,16 +1,17 @@
 
 
 def parrot
-  puts "Squawk!"puts "Pretty bird!"
+  puts "Squawk!"
+  puts "Pretty bird!"
   return "Squawk!"
 end
 
 
   
-  def phrase(parrot)
+  # def phrase(parrot)
     
-    return "Squawk!"
-   end
+  #   return "Squawk!"
+  # end
    
    
    
