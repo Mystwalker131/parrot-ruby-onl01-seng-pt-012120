@@ -7,7 +7,7 @@ end
 
 
   
-def parrot(pretty bird)
+def phrase("pretty bird")
   puts "Pretty bird!"
   return "Pretty bird!"
 end
